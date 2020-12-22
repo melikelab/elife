@@ -1,0 +1,6 @@
+The program 'callVoronoiMultiSeg' is for Voronoi tesselation and cluster finding
+The program 'PostVA_mod' is for post analysis of all the data files obtained after Voronoi tesselation and 
+cluster analysis. 
+The program 'HybridKLTest' is meant providing the 'reduced areas' and statistical K L Divergence test.
+
+The folder 'Accesory files' contain all the relevant functions to run these 2 main programs.
